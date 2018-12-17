@@ -1,0 +1,10 @@
+.fix_date {
+  padding-left: 0 !important;
+}
+
+label.error {
+  margin: auto;
+  padding: 10px;
+  font-size: 12px;
+  color: #f00;
+}
