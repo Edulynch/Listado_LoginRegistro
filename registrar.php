@@ -88,7 +88,6 @@
                             <!-- TEST-->
                             <div>
                                 <button class="btn btn-success" type="submit">Registrar</button>
-                                <!--<button class="btn btn-warning" type="reset">Limpiar</button>-->
                             </div>
                         </form>
                     </div>

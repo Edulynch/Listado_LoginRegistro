@@ -11,7 +11,6 @@ define('DBUSER','root');
 define('DBPASS','');
 define('DBNAME','appweb');
 
-// $conn = new PDO("mysql:host=".DBHOST.";port=3306;dbname=".DBNAME, DBUSER, DBPASS);
 $conn = new mysqli(DBHOST, DBUSER, DBPASS, DBNAME);
 
 if ($conn->connect_error) {
